@@ -1,9 +1,10 @@
 title = "Dastan Games Studio"
-baseURL = "https://dastangamesstudio.github.io"
+baseURL = "https://dastangamesstudio.github.io/dastangamesstudio"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
 contentDir = "content"
+publishDir = "docs"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
