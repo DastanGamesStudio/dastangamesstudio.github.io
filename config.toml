@@ -1,5 +1,5 @@
 title = "Dastan Games Studio"
-baseURL = "https://dastangamesstudio.github.io/dastangamesstudio"
+baseURL = "https://dastangamesstudio.github.io"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
