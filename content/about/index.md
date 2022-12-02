@@ -1,11 +1,25 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: ""
+featured_image: '/images/1.png'
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/2.png">}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+# Game Development
+
+We provide end to end game development services, right from ideation to deploying games on various platforms. We have experience building games for both mobile and PC platforms. With over four years of game development experience we've worked on a variety of game engines including, Unity and Cocos2d-X.
+
+# Game Design
+
+We pride ourselves for our innovative game design. Being avid gamers ourselves we enjoy the challenges of designing games that are unique. Be it making completely new prototypes or solving problems with an existing game design, we are always looking forward to challenging ourselves and standing out with our designs.
+
+# Mobile App Development
+
+Our technical team has a wealtyh of experience building innovative consumer apps for smartphones, both iOS and android. In the past year we've designed and built over five consumer applications on both platforms and are always looking for more such projects.
+
+# Virtual Reality Development
+
+We feel VR experiences can engage users in a way no other medium can. While VR is considered the next big thing in consumer technology, it brings with it a whole host of challenges, both in terms of design and technology. Over the past year we've been experimenting and constantly learning in the intricacies of VR development. Tahnks to this, we feel well positioned to help companies create and bring VR experiences to their customers.
