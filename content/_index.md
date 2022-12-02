@@ -7,4 +7,4 @@ cascade:
   featured_image: '/images/tliu_icon.jpg'
 ---
 
-Independent game studio, currently working on our first title, 'The Light Inside Us' and Unity's assets.
+Independent game studio, working on mobile games and Unity's assets.
