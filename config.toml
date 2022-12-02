@@ -1,3 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Dastan Games Studio'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
