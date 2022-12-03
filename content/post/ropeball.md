@@ -2,7 +2,7 @@
 date: 2019-01-23T11:15:58-04:00
 description: "Rope Ball"
 featured_image: "/images/rope_ball.jpg"
-tags: []
+tags: ["games"]
 title: "Rope Ball"
 ---
 

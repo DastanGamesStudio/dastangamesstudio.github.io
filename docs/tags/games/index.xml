@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Dastan Games Studio</title>
-    <link>https://dastangamesstudio.github.io/post/</link>
-    <description>Recent content in Articles on Dastan Games Studio</description>
+    <title>games on Dastan Games Studio</title>
+    <link>https://dastangamesstudio.github.io/tags/games/</link>
+    <description>Recent content in games on Dastan Games Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://dastangamesstudio.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ents</title>
-      <link>https://dastangamesstudio.github.io/post/ents/</link>
-      <pubDate>Mon, 10 Oct 2022 10:58:08 -0400</pubDate>
-      
-      <guid>https://dastangamesstudio.github.io/post/ents/</guid>
-      <description>Our first asset for the Unity store and the first work with us of our new graphic designer Dhiraj Atwal.
-The pack consists of four Ents. The Ents are a race of sapient tree-like creatures in the J.R.R Tolkien&amp;rsquo;s Lord of the Rings series. They usually have a menacing look, but Dhiraj wanted to give them a more cartoonish look.
-In total we have 4 skins that fit each season of the year.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 09 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://dastangamesstudio.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Light Inside Us</title>
       <link>https://dastangamesstudio.github.io/post/tlius/</link>

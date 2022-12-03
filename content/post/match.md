@@ -2,6 +2,7 @@
 date: 2020-02-5T11:15:58-04:00
 description: ""
 featured_image: "/images/match.jpg"
+tags: ["games"]
 title: "Match & Patch"
 ---
 

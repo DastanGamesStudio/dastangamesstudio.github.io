@@ -2,7 +2,7 @@
 date: 2018-12-25T11:25:05-04:00
 description: "Medieval Heroes: Warrior Princess"
 featured_image: "/images/mhwp_banner.png"
-tags: []
+tags: ["games"]
 title: "Medieval Heroes: Warrior Princess"
 disable_share: false
 ---

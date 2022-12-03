@@ -2,6 +2,7 @@
 date: 2019-06-23T11:15:58-04:00
 description: ""
 featured_image: "/images/step_dragons.jpg"
+tags: ["games"]
 title: "Steps & Dragons"
 ---
 

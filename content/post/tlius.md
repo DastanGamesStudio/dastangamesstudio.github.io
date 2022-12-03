@@ -2,7 +2,7 @@
 date: 2021-11-09T10:58:08-04:00
 description: "The Light Inside Us"
 featured_image: "/images/tlius-main-bg.png"
-#tags: ["scene"]
+tags: ["games"]
 title: "The Light Inside Us"
 ---
 
