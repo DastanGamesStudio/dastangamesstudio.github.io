@@ -6,7 +6,18 @@
     <description>Recent content in unity on Dastan Games Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Oct 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://dastangamesstudio.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://dastangamesstudio.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skeletons Zombie</title>
+      <link>https://dastangamesstudio.github.io/post/skeleton_zombie/</link>
+      <pubDate>Wed, 12 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://dastangamesstudio.github.io/post/skeleton_zombie/</guid>
+      <description>We are going to make a small series of assets about one of the most common enemies in all dungeons: the skeletons.
+Cursed creatures that seem to be just a bunch of bones, but thanks to the black magic of their master, they come back to life.
+The first of the series is the most basic of all. We continue with the cartoon style of our 3D artist Dhiraj Atwal.</description>
+    </item>
+    
     <item>
       <title>Ents</title>
       <link>https://dastangamesstudio.github.io/post/ents/</link>
